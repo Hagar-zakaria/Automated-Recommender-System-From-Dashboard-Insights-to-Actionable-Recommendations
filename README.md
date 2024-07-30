@@ -58,9 +58,9 @@ Example using Email Alerts:
 
 This code snippet defines a function to send email notifications to stakeholders based on the generated recommendations.
 
-Automating the Process using Airflow:
+# Automating the Process using Airflow:
 
-To ensure the entire process runs automatically, we can use a tool like Apache Airflow.
+Apache Airflow is an open-source tool to programmatically author, schedule, and monitor workflows. It allows you to define workflows as code and manage them efficiently. In this context, Airflow is used to automate the process of extracting data, generating recommendations, and notifying stakeholders.
 
 
 ![image](https://github.com/user-attachments/assets/9d235801-2bfa-437b-b227-668797fcd12f)
